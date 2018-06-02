@@ -1,0 +1,38 @@
+{
+  "author": {
+    "name": "James Baicoianu"
+  },
+  "bugs": {
+    "url": "https://github.com/jbaicoianu/janus-method-rtc/issues"
+  },
+  "dependencies": {},
+  "description": "Adds 'rtc' command to janus-server.",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/jbaicoianu/janus-method-rtc#readme",
+  "keywords": [
+    "janusvr",
+    "janus",
+    "plugin",
+    "webrtc"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "jbaicoianu",
+      "email": "bai@janusvr.com"
+    }
+  ],
+  "name": "janus-method-rtc",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbaicoianu/janus-method-rtc.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
